@@ -5,3 +5,4 @@ line 3
 no one no dited edited
 new line in vs
 now i get it how it work
+the last time i forot to put commit message
