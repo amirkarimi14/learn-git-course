@@ -1,8 +1,10 @@
 line 1 edited
 
-line 3
+line 3 inow one day do it
 
 no one no dited edited
 new line in vs
 now i get it how it work
 the last time i forot to put commit message
+line 8
+line 9
